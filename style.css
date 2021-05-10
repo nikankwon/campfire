@@ -139,12 +139,10 @@ body{
     font-style: italic bold;
     font-family: Cambria;
     color: beige;
-    font-size: 16px;
+    font-size: 14px;
     margin-top: 80px;
     padding-left: 50px;
     margin: 0 auto;
-    height: 300px;
-    position: relative;
 }
 
 .jumbotron{
