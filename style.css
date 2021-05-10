@@ -87,20 +87,19 @@ body{
     padding: 10px 40px;
     text-decoration:dashed;
     transition: background .5s;
-    width: 25%;
     text-align: center;
-    display: inline-block;
-    font-size: 20px;
-    vertical-align: middle;
-    text-transform: uppercase;
-    cursor: pointer;
 }
 .btn:hover, .nav ul li:hover{
     background: orange;
     color:#000;
     cursor: pointer;
     transition: background .5s;
-    width: 
+    width:25%;
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    cursor: pointer;
 }
 
 .nav{
