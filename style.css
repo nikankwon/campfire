@@ -1,5 +1,5 @@
 .header {
-    background: url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20header.jpeg") no-repeat center center;
+    background: url("https://github.com/nikankwon/campfire/blob/main/Pictures/campfire%20header.jpeg?raw=true") no-repeat center center;
     background-size: cover;
     height: 800px;
     text-align: center;
@@ -86,7 +86,7 @@
 }
 
 .jumbotron {
-    background: url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20main.jpeg")center center;
+    background: url("https://github.com/nikankwon/campfire/blob/main/Pictures/campfire%20main.jpeg?raw=true")center center;
     background-size:cover;
     height: 600px;
 
