@@ -170,7 +170,7 @@ body{
 
 .jumbotron p {
     color: beige;
-    text-align: center;
+    text-align: center !important;
 }
 
 .main .jumbotron {
