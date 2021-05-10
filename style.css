@@ -79,7 +79,7 @@ body{
     -moz-animation: fadein 3s;
     -o-animation: fadein 3s;
     -ms-zoom-animation: fadein 3s;
-    animation: fadein 3s}
+    animation: fadein 3s;
 
 .btn{
     color: #fff;
@@ -88,6 +88,12 @@ body{
     text-decoration:dashed;
     transition: background .5s;
     width: 25%;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: middle;
+    text-transform: uppercase;
+    cursor: pointer;
 }
 .btn:hover, .nav ul li:hover{
     background: orange;
