@@ -34,8 +34,6 @@ body{
     color:burlywood;
     line-height: 100px;
     font-size: 80px;
-    margin-top: 0;
-    margin-bottom: 80px;
     text-transform: uppercase;
     font-family: Georgia;
     -webkit-animation: fadein 6s;
@@ -77,7 +75,11 @@ body{
     margin-bottom: 40px;
     margin-top: 0;
     text-transform: uppercase;
-}
+    -webkit-animation: fadein 3s;
+    -moz-animation: fadein 3s;
+    -o-animation: fadein 3s;
+    -ms-zoom-animation: fadein 3s;
+    animation: fadein 3s}
 
 .btn{
     color: #fff;
@@ -85,13 +87,14 @@ body{
     padding: 10px 40px;
     text-decoration:dashed;
     transition: background .5s;
-
+    width: 25%;
 }
 .btn:hover, .nav ul li:hover{
     background: orange;
     color:#000;
     cursor: pointer;
     transition: background .5s;
+    width: 
 }
 
 .nav{
@@ -118,17 +121,12 @@ body{
 }
 
 .main {
-    height: 800px;
-}
-
-.main img{
-    float: left;
-    margin: 20px 30px 20px 30px;
-    padding: 10px;
+    height: 1200px;
 }
 
 .main .container {
-    margin: 60px auto;
+    float: left;
+    margin: 20px auto;
 }
 
 .main h3{
