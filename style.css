@@ -120,11 +120,11 @@ body{
 .main img{
     float: left;
     margin: 50px 80px 50px 0;
-    position: absolute;
 }
 
 .main .container {
     margin: 80px auto;
+    position: absolute;
 }
 
 .main h2{
