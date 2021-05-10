@@ -12,6 +12,11 @@ body{
     background-size: cover;
     height: 800px;
     text-align: center;
+    -webkit-animation: fadein 4s;
+    -moz-animation: fadein 4s;
+    -o-animation: fadein 4s;
+    -ms-zoom-animation: fadein 4s;
+    animation: fadein 4s;
 }
 
 .header .container{
