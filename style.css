@@ -119,7 +119,7 @@ body{
 
 .main img{
     float: left;
-    margin: 50px 80px 50px 80px;
+    margin: 50px 80px 50px 0;
 }
 
 .main .container {
@@ -148,8 +148,8 @@ body{
 }
 
 .jumbotron .btn {
-    position: relative;
-    opacity: 0.75;
+    margin: 10px 0 0;
+    float: right;
 }
 
 .jumbotron .container {
@@ -160,13 +160,13 @@ body{
 .jumbotron h2 {
     color: beige;
     font-size: 24px;
-    text-align: center;
+    text-align: right;
     width: 20%;
 }
 
 .jumbotron p {
     color: beige;
-    text-align: center;
+    text-align: right;
 }
 
 .footer {
@@ -183,4 +183,8 @@ body{
     height: 80px;
     line-height: 80px;
     margin: 0;
+}
+
+.main .jumbotron {
+    padding: 0 30px;
 }
