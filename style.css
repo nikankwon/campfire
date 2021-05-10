@@ -174,17 +174,12 @@ body{
 .footer {
     color:rgb(236, 167, 77);
     text-align: center;
-    height: 80px;
-    padding-bottom: 50px;
 }
 
 .footer p {
     text-align: center;
     color: beige;
     font-size: 14px;
-    height: 80px;
-    line-height: 80px;
-    margin: 0;
 }
 
 .main .jumbotron {
