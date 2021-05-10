@@ -4,7 +4,7 @@ html, body{
 }
 
 .header{
-    background-image:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20header.jpeg") no-repeat center center;
+    background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20header.jpeg") no-repeat center center;
     background-size: cover;
     height: 800px;
     text-align: center;
@@ -90,28 +90,29 @@ html, body{
 }
 
 .jumbotron{
-    background-image:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20main.jpeg")center center;
+    background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20main.jpeg") center center;
     background-size:cover;
     height: 600px;
 
 }
 
-.jumbotron .btn{
+.jumbotron .btn {
     margin: 10px 0 0;
     float: center;
+    opacity: 0.75;
 }
 
-.jumbotron .container{
+.jumbotron .container {
     position: relative;
     top: 220px;
 }
 
-.jumbotron h2{
+.jumbotron h2 {
     color: #fff;
     text-align: center;
 }
 
-.jumbotron p{
+.jumbotron p {
     color: #beige;
     text-alight: center;
 }
@@ -122,7 +123,7 @@ html, body{
     padding-bottom: 50px;
 }
 
-.footer p{
+.footer p {
     color:#fff;
     font-size: 14px;
     height: 80px;
