@@ -89,11 +89,6 @@ body{
     text-decoration:dashed;
     transition: background .5s;
     text-align: center;
-    display: inline-block;
-    font-size: 20px;
-    vertical-align: middle;
-    text-transform: uppercase;
-    cursor: pointer
 }
 
 .btn:hover, .nav ul li:hover{
@@ -101,12 +96,6 @@ body{
     color:#000;
     cursor: pointer;
     transition: background .5s;
-    width:25%;
-    display: inline-block;
-    font-size: 20px;
-    vertical-align: middle;
-    text-transform: uppercase;
-    cursor: pointer;
 }
 
 .nav{
@@ -141,12 +130,9 @@ body{
     text-transform: uppercase;
     cursor: pointer}
 
-.main {
-    height: 900px;
-}
 
 .main .container {
-    margin: 60px auto;
+    margin: 80px auto;
 }
 
 .main h3{
@@ -194,11 +180,11 @@ body{
 
 .footer {
     color:rgb(236, 167, 77);
-    text-align: center;
+    text-align: right;
 }
 
 .footer p {
-    text-align: center;
+    text-align: right;
     color: beige;
     font-size: 14px;
 }
