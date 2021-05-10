@@ -119,14 +119,15 @@ body{
 
 .main img{
     float: left;
-    margin: 50px 80px 50px 0;
+    margin: 50px 80px 50px 80px;
+    padding: 30px;
 }
 
 .main .container {
     margin: 80px auto;
 }
 
-.main h2{
+.main h3{
     color:beige;
     font-style: italic bold;
     font-family: Cambria;
