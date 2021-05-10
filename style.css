@@ -3,14 +3,14 @@ html, body{
     padding: 0;
 }
 
-head{
+.header{
     background-image:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20header.jpeg") no-repeat center center;
     background-size: cover;
     height: 800px;
     text-align: center;
 }
 
-.container head{
+.header .container{
     position: relative;
     top: 200px;
 }
@@ -21,7 +21,7 @@ head{
     padding: 0 10px;
 }
 
-head, h1{
+.header, h1{
     color:burlywood;
     line-height: 100px;
     font-size: 80px;
@@ -46,7 +46,7 @@ head, h1{
     transition: background .5s;
 }
 
-head p{
+.header p{
     color: #fff;
     font-weight: 500;
     letter-spacing: 8px;
@@ -55,20 +55,20 @@ head p{
     text-transform: uppercase;
 }
 
-nav{
+.nav{
     background: #000;
     height: 80px;
     width: 100%;
 }
 
-nav ul{
+.nav ul{
     list-style: none;
     height: 80px;
     margin: 0 auto;
     padding: 0;
 }
 
-nav ul li{
+.nav ul li{
     color: #fff;
     display: inline-block;
     height: 80px;
@@ -78,52 +78,52 @@ nav ul li{
     transition: background .5s;
 }
 
-main, img{
+.main img{
     float: left;
     margin: 50px 80px 50px 0;
 
 }
 
-main, p{
+.main p{
     font-style: italic bold;
     font-family: Cambria;
     color: black;
 }
 
-jumbotron{
+.jumbotron{
     background-image:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20main.jpeg")center center;
     background-size:cover;
     height: 600px;
 
 }
 
-.btn jumbotron{
+.jumbotron .btn{
     margin: 10px 0 0;
     float: center;
 }
 
-.container jumbotron{
+.jumbotron .container{
     position: relative;
     top: 220px;
 }
 
-jumbotron, h2{
+.jumbotron h2{
     color: #fff;
     text-align: center;
 }
 
-jumbotron p{
+.jumbotron p{
     color: #beige;
     text-alight: center;
 }
 
-footer {
+.footer {
     color:#000;
     height: 80px;
     padding-bottom: 50px;
 }
 
-footer p{
+.footer p{
     color:#fff;
     font-size: 14px;
     height: 80px;
