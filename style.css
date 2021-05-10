@@ -119,6 +119,7 @@ body{
 
 .main img{
     float: left;
+    size: 70% auto;
     margin: 30px 80px 30px 80px;
     padding: 30px;
 }
@@ -144,8 +145,8 @@ body{
 
 .jumbotron{
     background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfiremain.jpeg") center center;
-    background-size: 70% auto;
-    height: 400px;
+    background-size: cover;
+    height: 600px;
 
 }
 
