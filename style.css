@@ -119,19 +119,20 @@ body{
 
 .main img{
     float: left;
-    margin: 50px 80px 50px 80px;
+    margin: 30px 80px 30px 80px;
     padding: 30px;
 }
 
 .main .container {
-    margin: 80px auto;
+    margin: 60px auto;
 }
 
 .main h3{
     color:beige;
     font-style: italic bold;
     font-family: Cambria;
-    margin-top: 80px;
+    margin: 10px 50px;
+    padding: 30px;
 }
 
 .main p{
@@ -143,8 +144,8 @@ body{
 
 .jumbotron{
     background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfiremain.jpeg") center center;
-    background-size:cover;
-    height: 600px;
+    background-size: 70% auto;
+    height: 400px;
 
 }
 
