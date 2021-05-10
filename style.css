@@ -141,11 +141,12 @@ body{
     color: beige;
     font-size: 16px;
     margin-top: 80px;
-    border: 3px;
+    border: 1px solid;
     border-color:bisque;
     padding-left: 50px;
     margin: 0 auto;
-    position: relative;
+    position: absolute;
+    height: 300px;
 }
 
 .jumbotron{
