@@ -1,9 +1,9 @@
-html, body{
+html, body {
     margin: 0;
     padding: 0;
 }
 
-.header{
+.header {
     background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20header.jpeg") no-repeat center center;
     background-size: cover;
     height: 800px;
