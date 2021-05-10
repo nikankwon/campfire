@@ -80,6 +80,7 @@ body{
     -o-animation: fadein 3s;
     -ms-zoom-animation: fadein 3s;
     animation: fadein 3s;
+}
 
 .btn{
     color: #fff;
@@ -89,6 +90,7 @@ body{
     transition: background .5s;
     text-align: center;
 }
+
 .btn:hover, .nav ul li:hover{
     background: orange;
     color:#000;
