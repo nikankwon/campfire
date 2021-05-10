@@ -119,9 +119,8 @@ body{
 
 .main img{
     float: left;
-    size: 70% auto;
-    margin: 30px 80px 30px 80px;
-    padding: 30px;
+    margin: 20px 30px 20px 30px;
+    padding: 10px;
 }
 
 .main .container {
@@ -130,10 +129,9 @@ body{
 
 .main h3{
     color:beige;
-    font-style: italic bold;
+    font-style: italic;
     font-family: Cambria;
-    margin: 10px 50px;
-    padding: 30px;
+    margin: 0 auto;
 }
 
 .main p{
