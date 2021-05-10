@@ -33,6 +33,12 @@ body{
     margin-bottom: 80px;
     text-transform: uppercase;
     font-family: Georgia;
+    opacity: 0;
+    -webkit-transition: opacity 2s ease-in;
+    -moz-transition: opacity 2s ease-in;
+    -o-transition: opacity 2s ease-in;
+    -ms-transition: opacity 2s ease-in;
+    transition: opacity 2s ease-in;
 }
 
 .header p{
@@ -88,19 +94,23 @@ body{
 
 .main .container {
     margin: 80px auto;
+    height: 800px;
+    width: 80%;
 }
 
 .main h2{
-    color:black;
+    color:beige;
     font-style: italic bold;
     font-family: Cambria;
     margin-top: 80px;
+    
 }
 
 .main p{
     font-style: italic bold;
     font-family: Cambria;
-    color: black;
+    color: beige;
+    font-size: 16px;
 }
 
 .jumbotron{
