@@ -119,12 +119,11 @@ body{
 
 .main img{
     float: left;
-    margin: 0px;
+    margin: 50px 80px 50px 0;
 }
 
 .main .container {
     margin: 80px auto;
-    height: 400px;
 }
 
 .main h2{
@@ -177,7 +176,7 @@ body{
 }
 
 .main .jumbotron {
-    padding: 0 30px;
+    padding: 80px auto;
 }
 
 .footer {
