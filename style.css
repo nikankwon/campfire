@@ -4,7 +4,7 @@ html, body {
 }
 
 .header {
-    background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20header.jpeg") no-repeat center center;
+    background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfireheader.jpeg") no-repeat center center;
     background-size: cover;
     height: 800px;
     text-align: center;
@@ -90,7 +90,7 @@ html, body {
 }
 
 .jumbotron{
-    background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfire%20main.jpeg") center center;
+    background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfiremain.jpeg") center center;
     background-size:cover;
     height: 600px;
 
