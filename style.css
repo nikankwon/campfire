@@ -122,6 +122,7 @@ body{
 
 .main .container img{
     margin: 80px auto;
+    float: left;
 }
 
 .main h3{
