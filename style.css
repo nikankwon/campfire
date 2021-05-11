@@ -120,8 +120,12 @@ body{
     padding: 0 10px;
 }
 
+.main {
+    margin: 200px 0;
+}
+
 .main .container img{
-    margin: 80px auto;
+    padding: 30px auto;
     float: left;
 }
 
@@ -129,11 +133,11 @@ body{
     color:beige;
     font-style: italic;
     font-family: Cambria;
-    margin: 0 auto;
+    margin: 10 auto;
 }
 
 .main p{
-    font-style: italic;
+    font-style: normal;
     font-family: Cambria;
     color: beige;
     font-size: 14px;
