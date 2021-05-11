@@ -121,7 +121,8 @@ body{
 }
 
 .main {
-    margin: 40px 0 400px 0;
+    margin: 100px 0 400px 0;
+    padding: 0px 140px;
 }
 
 .main .container{
