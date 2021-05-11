@@ -120,15 +120,9 @@ body{
     padding: 0 10px;
 }
 
-.main img{
-    float: left;
-    margin: 50px 80px;
-}
-
-.main .container {
+.main .container img{
     margin: 80px auto;
     height: auto;
-    position: relative;
 }
 
 .main h3{
