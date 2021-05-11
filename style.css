@@ -123,11 +123,11 @@ body{
 
 .main {
     margin: 100px 0 400px 0;
-    padding: 0px 140px;
 }
 
 .main .container{
     margin: 0 40px 0 40px;
+    max-width: 1400px;
 }
 
 .main .container img{
