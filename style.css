@@ -22,6 +22,7 @@ body{
 .header .container{
     position: relative;
     top: 200px;
+    
 }
 
 .container{
@@ -105,6 +106,11 @@ body{
     width: 100%;
 }
 
+.nav .container {
+    max-width: max-content;
+    margin: auto;
+}
+
 .nav ul{
     list-style: none;
     height: 80px;
@@ -119,6 +125,10 @@ body{
     line-height: 80px;
     list-style: none;
     padding: 0 10px;
+    width: 240px;
+    text-align: center;
+    font-size: 24px;
+    font-family: system-ui;
 }
 
 .main {
@@ -161,12 +171,12 @@ body{
 
 .jumbotron .btn {
     margin: 10px 0 0;
-    float: right;
 }
 
 .jumbotron .container {
     position: relative;
     top: 100px;
+    float: center;
 }
 
 .jumbotron h2 {
@@ -178,6 +188,7 @@ body{
 .jumbotron p {
     color: beige;
     text-align: right important!;
+    margin: 40px;
 }
 
 .footer {
