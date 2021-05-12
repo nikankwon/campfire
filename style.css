@@ -181,11 +181,11 @@ body{
 
 .footer {
     color:rgb(236, 167, 77);
-    text-align: right;
+    text-align: right important!;
 }
 
 .footer p {
-    text-align: right;
+    text-align: right important!;
     color: beige;
     font-size: 14px;
 }
