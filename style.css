@@ -171,6 +171,7 @@ body{
 
 .jumbotron .btn {
     margin: 10px 0 0;
+    padding: 10px 100px;
 }
 
 .jumbotron .container {
@@ -182,12 +183,12 @@ body{
 .jumbotron h2 {
     color: beige;
     font-size: 24px;
-    text-align: right important!;
+    text-align: center;
 }
 
 .jumbotron p {
     color: beige;
-    text-align: right important!;
+    text-align: center;
     margin: 40px;
 }
 
