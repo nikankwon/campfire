@@ -177,7 +177,7 @@ body{
 .jumbotron .container {
     position: relative;
     top: 100px;
-    float: center;
+    text-align: center;
 }
 
 .jumbotron h2 {
