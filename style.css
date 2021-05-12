@@ -181,14 +181,16 @@ body{
 }
 
 .jumbotron h2 {
-    color: beige;
-    font-size: 24px;
+    color: lightsalmon;
+    font-size: 30px;
     text-align: center;
+    margin: 40px
 }
 
 .jumbotron p {
-    color: beige;
+    color: lightsalmon;
     text-align: center;
+    font-size: 24px;
     margin: 40px;
 }
 
