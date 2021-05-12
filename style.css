@@ -181,27 +181,27 @@ body{
 }
 
 .jumbotron h2 {
-    color: lightsalmon;
+    color: snow;
     font-size: 30px;
     text-align: center;
-    margin: 40px
+    margin: 60px
 }
 
 .jumbotron p {
-    color: lightsalmon;
+    color: snow;
     text-align: center;
     font-size: 24px;
-    margin: 40px;
+    margin: 60px;
 }
 
 .footer {
     color:rgb(236, 167, 77);
-    text-align: right important!;
+    text-align: right;
     padding: 60px 0 60px 0;
 }
 
 .footer p {
-    text-align: right important!;
+    text-align: right;
     color: beige;
     font-size: 14px;
 }
