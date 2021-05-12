@@ -166,7 +166,7 @@ body{
     background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfiremain.jpeg") center center;
     background-size: cover;
     height: 600px;
-
+    text-align: center;
 }
 
 .jumbotron .btn {
