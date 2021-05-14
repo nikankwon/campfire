@@ -208,14 +208,14 @@ body{
 
 .jumbotron h5{
     color: orangered;
+    top: 100px;
     text-align: center;
-    margin: 0 auto;
+    margin: 40px 40px;
 }
 
 .jumbotron p {
     color: snow;
     text-align: center;
-    padding-left: 500px;
     font-size: 24px;
     margin: 0 auto;
     
