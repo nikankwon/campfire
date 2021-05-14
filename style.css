@@ -132,6 +132,7 @@ body{
     width: 240px;
     text-align: center;
     font-size: 24px;
+
 }
 
 .main {
@@ -172,10 +173,11 @@ body{
 .jumbotron{
     background:url("https://raw.githubusercontent.com/nikankwon/campfire/main/Pictures/campfiremain.jpeg") center center;
     background-size: cover;
-    height: 600px;
+    height: 800px;
     text-align: center;
     position: relative;
     margin: 0 auto;
+
 }
 
 .jumbotron .btn {
@@ -184,19 +186,33 @@ body{
 }
 
 .jumbotron .container {
-
+    position: relative;
+    top: 100px;
+    text-align: center;
+    border: 2px solid lightsalmon;
 }
 
 .jumbotron h2 {
-
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+    margin: 60px;
+    padding-left: 500px;
 }
 
 .jumbotron h5{
-
+    color: lightsalmon;
+    text-align: left;
+    padding-left: 500px;
+    text-align: center;
 }
 
 .jumbotron p {
-
+    color: snow;
+    text-align: center;
+    padding-left: 500px;
+    font-size: 24px;
+    margin: 60px;
 }
 
 .footer {
