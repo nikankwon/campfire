@@ -187,7 +187,7 @@ body{
 }
 
 .jumbotron .btn {
-    margin: 0px auto;
+    margin: 0px 80px;
     padding: 10px 100px;
 }
 
@@ -217,7 +217,7 @@ body{
     color: snow;
     text-align: center;
     font-size: 24px;
-    margin: 0 auto;
+    margin: 0 80px;
     
 }
 
