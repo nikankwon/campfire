@@ -162,7 +162,7 @@ body{
     font-family: Cambria;
     margin: 10 100 40 100;
     padding-left: 40px;
-    float: 50%;
+    float: right;
     width: 50%;
 }
 
@@ -172,7 +172,7 @@ body{
     color: lightgray;
     font-size: 14px;
     padding-left: 40px;
-    float: 50%;
+    float: right;
     width: 50%;
 }
 
