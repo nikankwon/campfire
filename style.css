@@ -21,11 +21,12 @@ body{
 
 .header .container{
     position: relative;
-    top: 200px;
+    top: 100px;
     border: 3px solid white;
     border-radius: 15px;
     border-color: black;
-    opacity: 50%;
+    opacity: 75%;
+    margin: 0 auto;
     
 }
 
