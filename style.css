@@ -190,7 +190,6 @@ body{
     position: relative;
     top: 100px;
     text-align: center;
-    border: 2px solid lightsalmon;
     margin: 0 auto;
 }
 
@@ -199,14 +198,11 @@ body{
     font-size: 30px;
     text-align: center;
     margin: 60px;
-    padding-left: 500px;
     margin: 0 auto;
 }
 
 .jumbotron h5{
     color: lightsalmon;
-    text-align: left;
-    padding-left: 500px;
     text-align: center;
     margin: 0 auto;
 }
